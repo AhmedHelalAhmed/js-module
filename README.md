@@ -1,4 +1,7 @@
-# js-module
+# JS Module
+
+Javascript by default deal with the file as module.
+
 # Single export 
 To export single method in this case you only export a method/variable
 
